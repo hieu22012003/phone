@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\phone\phone\obj\Debug\net6.0\phone.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\phone\phone\obj\Debug\net6.0\phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\phone\phone\obj\Debug\net6.0\phone.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\phone\phone\obj\Debug\net6.0\phone.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\phone\phone\obj\Debug\net6.0\phone.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\phone\phone\obj\Debug\net6.0\Interop.Accessibility.dll
+C:\Users\ASUS\source\repos\phone\phone\obj\Debug\net6.0\phone.csproj.ResolveComReference.cache
